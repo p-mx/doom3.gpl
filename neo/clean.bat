@@ -51,3 +51,6 @@ rmdir unix\releasei386-glibc /s /q
 rmdir "mac\MacQuake3 Data" /s /q
 rmdir macosx\Client\Q3Test.app /s /q
 rmdir macosx\Client\Q3Test.build /s /q
+del *.suo
+del *.sdf
+del *.user
